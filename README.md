@@ -19,3 +19,6 @@ This could help pinpoint TESS Project Candidates that exhibit characteristics si
 
 1. Are the candidates similar to the planets? or something completely different? 
 ---
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
