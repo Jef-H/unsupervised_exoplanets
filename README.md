@@ -20,5 +20,7 @@ This could help pinpoint TESS Project Candidates that exhibit characteristics si
 1. Are the candidates similar to the planets? or something completely different? 
 ---
 
+## data source
+https://exoplanetarchive.ipac.caltech.edu/index.html
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
