@@ -21,7 +21,22 @@ This could help pinpoint TESS Project Candidates that exhibit characteristics si
 ---
 
 ## data source
+
+Alright so there's two data sources used here. The way you get them is go to 
 https://exoplanetarchive.ipac.caltech.edu/index.html
+
+- click on TESS Project Candidates
+- click Download table on the toolbar
+- select all rows and all columns and hit download
+- save file as TESS_project_candidates.csv
+
+go back to the home page
+
+- click on confirmed planets
+- click Download table on the toolbar
+- select all rows and all columns and hit download
+- save file as Confirmed_planets.csv 
+
 
 ## data files 
 
