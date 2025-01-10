@@ -7,7 +7,7 @@
 
 I'm exploring the clustering patterns between **TESS Project Candidates** and either the **Confirmed Planets** or the **TESS Confirmed Planets**. My goal is to compare these clustering patterns to identify potential similarities. 
 
-This could help pinpoint TESS Project Candidates that exhibit characteristics similar to confirmed planets, potentially highlighting strong contenders for confirmation as exoplanets. It’s an exciting opportunity to “cheer for” these candidates in their journey to becoming confirmed!
+This could help pinpoint TESS Project Candidates that exhibit characteristics similar to confirmed planets, potentially highlighting strong contenders for confirmation as exoplanets. Hopefully by the end of this project we'll be able to “cheer for” these candidates in their journey to becoming confirmed!
 
 ## Data Summary
 
