@@ -30,7 +30,7 @@ https://exoplanetarchive.ipac.caltech.edu/index.html
 - select all rows and all columns and hit download
 - save file as TESS_project_candidates.csv
 
-go back to the home page
+go back to the home page  https://exoplanetarchive.ipac.caltech.edu/index.html
 
 - click on confirmed planets
 - click Download table on the toolbar
