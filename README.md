@@ -23,4 +23,10 @@ This could help pinpoint TESS Project Candidates that exhibit characteristics si
 ## data source
 https://exoplanetarchive.ipac.caltech.edu/index.html
 
+## data files 
+
+TESS_project_candidates.csv ( raw file, download with all rows all columns) 
+
+confirmed_exoplanets_clean.csv (unwanted columns dropped, and in pandas readable) 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
