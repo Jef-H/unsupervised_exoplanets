@@ -44,4 +44,12 @@ TESS_project_candidates.csv ( raw file, download with all rows all columns)
 
 confirmed_exoplanets_clean.csv (unwanted columns dropped, and in pandas readable) 
 
+## Code
+
+EDA = exploratory data analysis   https://github.com/Jef-H/unsupervised_exoplanets/blob/develop/Unsupervised_EDA.ipynb
+
+majority of the source code = https://github.com/Jef-H/unsupervised_exoplanets/blob/develop/Final_Pass.ipynb
+
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
